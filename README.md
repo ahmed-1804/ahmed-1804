@@ -9,8 +9,10 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________
 ## About me
 😄 A Real Madrid fan. 
+
 ⚡ I love playing video games.
-- Drawing sketches is one of my best hobbies.  
+
+✨ Drawing sketches is one of my best hobbies.  
 
 <!--
 **ahmed-1804/ahmed-1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
