@@ -3,14 +3,14 @@ I'm Ahmed. A motivated and detail-oriented Physics graduate with a strong academ
 
 Demonstrates extensive experience in computer skills, programming especially using Python and MATLAB, currently developing deeper expertise in Machine learning techniques for scientific applications.
 _____________________________________________________________________________________________________________________________
-## Languages
-* Python
+## Tools and Libraries
+* Python (NumPy , selenium , Random , Matplotlib)
 * Matlab
 _____________________________________________________________________________________________________________________________
 ## About me
-A Real Madrid fan. 
-I love playing video games.
-Drawing sketches is one of my best hobbies.  
+- A Real Madrid fan. 
+- I love playing video games.
+- Drawing sketches is one of my best hobbies.  
 
 <!--
 **ahmed-1804/ahmed-1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
