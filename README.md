@@ -8,8 +8,8 @@ ________________________________________________________________________________
 * Matlab
 _____________________________________________________________________________________________________________________________
 ## About me
-- A Real Madrid fan. 
-- I love playing video games.
+😄 A Real Madrid fan. 
+⚡ I love playing video games.
 - Drawing sketches is one of my best hobbies.  
 
 <!--
