@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hi there 👋<br>I'm Ahmed. A motivated and detail-oriented Physics graduate with a strong academic foundation in programming skills and ML.<br><br>Demonstrates extensive experience in computer skills, programming especially using Python and MATLAB, currently developing deeper expertise in Machine learning techniques for scientific applications.<br><br>Tools and Libraries<br>Python (NumPy , selenium , Random , Matplotlib)<br>Matlab<br>About me<br>😄 A Real Madrid fan.<br><br>⚡ I love playing video games.<br><br>✨ Drawing sketches is one of my best hobbies.<br>
+I'm Ahmed. A motivated and detail-oriented Physics graduate with a strong academic foundation in programming skills and ML.<br><br>Demonstrates extensive experience in computer skills, programming especially using Python and MATLAB, currently developing deeper expertise in Machine learning techniques for scientific applications.<br><br>Tools and Libraries<br>Python (NumPy , selenium , Random , Matplotlib)<br>Matlab<br>About me<br>😄 A Real Madrid fan.<br><br>⚡ I love playing video games.<br><br>✨ Drawing sketches is one of my best hobbies.<br>
 
 
 ## 🌐 Socials:
